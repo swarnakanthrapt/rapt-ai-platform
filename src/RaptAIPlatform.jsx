@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Activity, Cpu, Server, Zap, ChevronDown, AlertCircle, CheckCircle, Loader, X, Eye, Code, Play, Database, Settings, BarChart3, GitBranch } from 'lucide-react';
+import { Activity, Cpu, Server, Zap, ChevronDown, AlertCircle, CheckCircle, Loader, X, Eye, Code, Play, Database, Settings, BarChart3 } from 'lucide-react';
 
 export default function RaptAIPlatform() {
   const [activeTab, setActiveTab] = useState('overview');
